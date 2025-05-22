@@ -31,7 +31,7 @@ Puerta Liverpool is an omnichannel mobile app prototype that enhances the shoppi
 
 This project was built in 24 hours by the team *Relics VII* and presented to executives from El Puerto de Liverpool. It was awarded **first place in the Best Prototype category**.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 Juan Pablo Vera Morales  
 📧 ju4n.vera@gmail.com  
