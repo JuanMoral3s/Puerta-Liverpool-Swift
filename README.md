@@ -36,4 +36,45 @@ This project was built in 24 hours by the team *Relics VII* and presented to exe
 Juan Vera [JuanMoral3s] https://github.com/JuanMoral3s
 Carlos Lopez
 Isaac Botello [botellopai18] https://github.com/botellopai18
-🔗 [LinkedIn](https://www.linkedin.com/in/juan-pablo-vera-morales-35b054281/)
+
+
+#Español:
+
+# 🛍️ Puerta Liverpool
+
+> 1.er lugar en la categoría de Mejor Prototipo – National iOS Hackathon 2025  
+> Organizado por Enactus México y El Puerto de Liverpool
+
+**Puerta Liverpool** es un prototipo de aplicación móvil omnicanal que mejora la experiencia de compra combinando tiendas físicas y plataformas digitales. Permite a los usuarios explorar productos, agregarlos al carrito, recibir recompensas y completar compras en tienda desde su celular.
+
+## ✨ Funcionalidades
+
+- 🔄 Inicia una compra en tienda y termínala en línea (o al revés)
+- 🎁 Sistema de recompensas por fidelidad y actividad
+- 🛒 Carrito de compras inteligente con vistas personalizadas de productos
+- 💳 Funciones de billetera digital y escaneo QR
+- 🌱 Incluye marca ficticia “Scenta Aromas” como parte del demo
+
+## 🛠️ Tecnologías
+
+- `Swift`
+- `SwiftUI`
+- `Xcode`
+
+## 📂 Estructura del Código
+
+- `ShoppingCart*.swift` – Componentes del carrito de compras
+- `Product*.swift` – Lógica y vista de productos
+- `Reward*.swift` – Sistema de recompensas
+- `QR.swift`, `Wallet.swift` – Funciones auxiliares
+- `MyApp.swift` – Punto de entrada de la app
+
+## 🏆 Sobre el Hackathon
+
+Este proyecto fue desarrollado en 24 horas por el equipo *Relics VII* y presentado ante ejecutivos de El Puerto de Liverpool. Recibió el **1.er lugar en la categoría de Mejor Prototipo**.
+
+## 👨‍💻 Autors
+
+Juan Vera [JuanMoral3s] https://github.com/JuanMoral3s
+Carlos Lopez
+Isaac Botello [botellopai18] https://github.com/botellopai18
