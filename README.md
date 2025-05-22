@@ -37,8 +37,8 @@ Juan Vera [JuanMoral3s] https://github.com/JuanMoral3s
 Carlos Lopez
 Isaac Botello [botellopai18] https://github.com/botellopai18
 
-
-#Español:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+##Español:
 
 # 🛍️ Puerta Liverpool
 
