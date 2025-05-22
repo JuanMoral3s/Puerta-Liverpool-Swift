@@ -33,6 +33,7 @@ This project was built in 24 hours by the team *Relics VII* and presented to exe
 
 ## 👨‍💻 Authors
 
-Juan Pablo Vera Morales  
-📧 ju4n.vera@gmail.com  
+Juan Vera [JuanMoral3s] https://github.com/JuanMoral3s
+Carlos Lopez
+Isaac Botello [botellopai18] https://github.com/botellopai18
 🔗 [LinkedIn](https://www.linkedin.com/in/juan-pablo-vera-morales-35b054281/)
