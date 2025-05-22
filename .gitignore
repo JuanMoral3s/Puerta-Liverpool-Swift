@@ -1,0 +1,8 @@
+# Xcode
+build/
+*.xcworkspace
+DerivedData/
+*.xcodeproj/
+*.xcuserstate
+.DS_Store
+__MACOSX/
