@@ -29,7 +29,7 @@ Puerta Liverpool is an omnichannel mobile app prototype that enhances the shoppi
 
 ## 🏆 Hackathon Notes
 
-This project was built in 24 hours by the team *Relics VII* and presented to executives from El Puerto de Liverpool. It was awarded **first place in the Best Prototype category**.
+This project was built in 48 hours by the team *Relics VII* and presented to executives from El Puerto de Liverpool. It was awarded **first place in the Best Prototype category**.
 
 ## 👨‍💻 Authors
 
@@ -70,7 +70,7 @@ Isaac Botello [botellopai18] https://github.com/botellopai18
 
 ## 🏆 Sobre el Hackathon
 
-Este proyecto fue desarrollado en 24 horas por el equipo *Relics VII* y presentado ante ejecutivos de El Puerto de Liverpool. Recibió el **1.er lugar en la categoría de Mejor Prototipo**.
+Este proyecto fue desarrollado en 48 horas por el equipo *Relics VII* y presentado ante ejecutivos de El Puerto de Liverpool. Recibió el **1.er lugar en la categoría de Mejor Prototipo**.
 
 ## 👨‍💻 Autors
 
